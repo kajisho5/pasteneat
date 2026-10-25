@@ -1,2 +1,15 @@
-# pasteneat
-Paste as plain text on Mac, with text cleanup (line breaks, width conversion, URL decode).
+# pasteneat（仮名）
+
+**書式なしペースト・テキスト整形**
+
+## 課題（Mac標準の不便）
+書式付きペーストの事故と、貼る前の整形（改行除去など）が地味に時間を奪う。
+
+## 計画している機能
+- ショートカットでプレーンテキスト貼り付け
+- 改行除去、全角半角変換、URLデコード
+- 整形ルールの組み合わせ
+
+## ステータス
+仮名・構想段階。2026-10-26に「Mac標準の足りないところ」候補としてリポジトリを作成。
+出典リスト: ~/workspace/apps/macos-builtin-pain-points.md
